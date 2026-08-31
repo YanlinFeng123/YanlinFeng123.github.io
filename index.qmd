@@ -1,11 +1,5 @@
 ---
-title: "YanlinFeng123.github.io"
+title: "Yanlin Feng"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is my website.

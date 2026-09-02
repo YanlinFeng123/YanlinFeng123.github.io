@@ -9,12 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - portfolio.qmd	
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
 

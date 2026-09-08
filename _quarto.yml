@@ -1,18 +1,20 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
-  title: "YanlinFeng123.github.io"
+  title: "yanlinfeng123b.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - portfolio.qmd	
+      - portfolio.qmq
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - brand
     css: styles.css
     toc: true
 

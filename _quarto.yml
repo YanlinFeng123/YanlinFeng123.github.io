@@ -3,12 +3,12 @@ project:
   output-dir: docs
   
 website:
-  title: "yanlinfeng123b.github.io"
+  title: "yanlinfeng123.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - portfolio.qmq
+      - portfolio.qmd
 
 format:
   html:

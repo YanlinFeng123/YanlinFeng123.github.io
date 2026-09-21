@@ -2,4 +2,18 @@
 title: "Portfolio"
 ---
 
-This is my portfolio.
+Projects and writing will appear here as they are ready to share.
+
+::: {.portfolio-note}
+### Work in progress
+
+I'm preparing this page. In the meantime, you can explore my [GitHub profile](https://github.com/YanlinFeng123).
+:::
+
+<!-- Add a project using this pattern:
+## Project title
+
+A short description of the question, your approach, and what you found.
+
+[View the project](https://example.com)
+-->

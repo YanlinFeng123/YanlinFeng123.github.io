@@ -3,20 +3,26 @@ project:
   output-dir: docs
   
 website:
-  title: "Yanlinfeng123.github.io"
+  title: "Linlin Feng"
+  site-url: "https://yanlinfeng123.github.io"
+  description: "The personal website and portfolio of Linlin Feng."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - portfolio.qmd
+      - href: Portfolio.qmd
+        text: Portfolio
+    right:
+      - icon: github
+        href: https://github.com/YanlinFeng123
+        aria-label: GitHub profile
+  page-footer:
+    center: "© Linlin Feng"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
-

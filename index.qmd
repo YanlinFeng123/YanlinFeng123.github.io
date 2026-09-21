@@ -1,8 +1,18 @@
 ---
-title: "Linlin Feng"
+title: "Home"
+title-block-style: none
 ---
 
-This is a Quarto website.
+::: {.hero}
+<p class="eyebrow">Welcome</p>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Hi, I'm Linlin Feng.
 
+This is my space to share projects, research, and ideas. Take a look around and follow along as the portfolio grows.
+
+[Explore my portfolio](Portfolio.qmd){.btn .btn-primary} [Find me on GitHub](https://github.com/YanlinFeng123){.btn .btn-outline-primary}
+:::
+
+## About this site
+
+I built this website with Quarto and GitHub Pages. The portfolio will collect work here as projects are ready to share.

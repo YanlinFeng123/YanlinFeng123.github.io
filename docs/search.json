@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Linlin Feng",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "This is my portfolio."
+    "text": "Projects and writing will appear here as they are ready to share.\n\nWork in progress\nI’m preparing this page. In the meantime, you can explore my GitHub profile."
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Home",
+    "section": "About this site",
+    "text": "About this site\nI built this website with Quarto and GitHub Pages. The portfolio will collect work here as projects are ready to share."
   }
 ]

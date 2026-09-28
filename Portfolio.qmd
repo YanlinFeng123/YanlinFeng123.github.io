@@ -2,18 +2,17 @@
 title: "Portfolio"
 ---
 
-Projects and writing will appear here as they are ready to share.
+## Research
 
-::: {.portfolio-note}
-### Work in progress
+### Nothing to Lose
 
-I'm preparing this page. In the meantime, you can explore my [GitHub profile](https://github.com/YanlinFeng123).
-:::
+**Teenagers Who Never Held the Vote Declined as Much as Those Who Lost It**
 
-<!-- Add a project using this pattern:
-## Project title
+Why did German teenagers feel less heard after losing voting eligibility: because they lost a right, or because an election excluded them?
 
-A short description of the question, your approach, and what you found.
+I reanalyse a published panel survey from Schleswig-Holstein using difference-in-differences in R. External efficacy fell by similar amounts among teenagers who lost the vote and those who had never been eligible. The comparison cannot isolate an additional withdrawal effect, and age differences limit causal interpretation.
 
-[View the project](https://example.com)
--->
+[Read the paper](research/nothing-to-lose.html){.btn .btn-primary}
+[View presentation](research/nothing-to-lose-slides.html){.btn .btn-outline-primary}
+
+*Independent research. The paper includes the methods, commented code, results, references, and appendix.*

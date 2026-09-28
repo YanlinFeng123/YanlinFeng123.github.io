@@ -4,13 +4,27 @@
     "href": "Portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Projects and writing will appear here as they are ready to share.\n\nWork in progress\nI’m preparing this page. In the meantime, you can explore my GitHub profile."
+    "text": "Teenagers Who Never Held the Vote Declined as Much as Those Who Lost It\nWhy did German teenagers feel less heard after losing voting eligibility: because they lost a right, or because an election excluded them?\nI reanalyse a published panel survey from Schleswig-Holstein using difference-in-differences in R. External efficacy fell by similar amounts among teenagers who lost the vote and those who had never been eligible. The comparison cannot isolate an additional withdrawal effect, and age differences limit causal interpretation.\nRead the paper View presentation\nIndependent research. The paper includes the methods, commented code, results, references, and appendix."
+  },
+  {
+    "objectID": "Portfolio.html#research",
+    "href": "Portfolio.html#research",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Teenagers Who Never Held the Vote Declined as Much as Those Who Lost It\nWhy did German teenagers feel less heard after losing voting eligibility: because they lost a right, or because an election excluded them?\nI reanalyse a published panel survey from Schleswig-Holstein using difference-in-differences in R. External efficacy fell by similar amounts among teenagers who lost the vote and those who had never been eligible. The comparison cannot isolate an additional withdrawal effect, and age differences limit causal interpretation.\nRead the paper View presentation\nIndependent research. The paper includes the methods, commented code, results, references, and appendix."
+  },
+  {
+    "objectID": "index.html#featured-research",
+    "href": "index.html#featured-research",
+    "title": "Home",
+    "section": "Featured research",
+    "text": "Featured research\n\nNothing to Lose\nA study of voting eligibility and political attitudes among German teenagers. I compare those who lost the vote with those who had never held it to examine withdrawal and exclusion.\nRead the paper · View the presentation"
   },
   {
     "objectID": "index.html#about-this-site",
     "href": "index.html#about-this-site",
     "title": "Home",
     "section": "About this site",
-    "text": "About this site\nI built this website with Quarto and GitHub Pages. The portfolio will collect work here as projects are ready to share."
+    "text": "About this site\nI built this website with Quarto and GitHub Pages to share my research and projects."
   }
 ]

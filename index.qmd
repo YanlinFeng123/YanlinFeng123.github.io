@@ -13,6 +13,14 @@ This is my space to share projects, research, and ideas. Take a look around and 
 [Explore my portfolio](Portfolio.qmd){.btn .btn-primary} [Find me on GitHub](https://github.com/YanlinFeng123){.btn .btn-outline-primary}
 :::
 
+## Featured research
+
+### Nothing to Lose
+
+A study of voting eligibility and political attitudes among German teenagers. I compare those who lost the vote with those who had never held it to examine withdrawal and exclusion.
+
+[Read the paper](research/nothing-to-lose.html) · [View the presentation](research/nothing-to-lose-slides.html)
+
 ## About this site
 
-I built this website with Quarto and GitHub Pages. The portfolio will collect work here as projects are ready to share.
+I built this website with Quarto and GitHub Pages to share my research and projects.

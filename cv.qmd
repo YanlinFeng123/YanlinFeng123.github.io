@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download my CV as a PDF](cv/Yanlin_Feng_CV.pdf)
+
+Shenzhen College of International Education · Unweighted GPA: 3.99 / 4.00
+
+My CV covers research, technical skills, leadership and extracurricular activities.
+
+[Read Nothing to Lose](research/nothing-to-lose.html) · [View the research presentation](research/nothing-to-lose-slides.html)

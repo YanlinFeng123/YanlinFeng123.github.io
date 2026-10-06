@@ -10,5 +10,8 @@
   },
   "portfolio.qmd": {
     "portfolio.html": "71a88f90"
+  },
+  "cv.qmd": {
+    "cv.html": "52a46f13"
   }
 }
